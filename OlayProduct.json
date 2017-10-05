@@ -1,0 +1,114 @@
+﻿{
+  "Products": [
+    {
+      "ProductId": "pid1",
+      "Name": "Olay Natural White 3-IN-1 Fairness UV Protection",
+      "Type": "Sun Protection",
+      "SPFValue": 24,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/NW/NW_2/NW_2_Olay%20Natural%20White%207%20IN%20ONE%20Glowing%20Fairness%20Cream%20SPF%2024_50g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251817",
+      "URL": "https://www.olay.in/en-in/search?term=moisturiser",
+      "Location": "Big Bazar",
+      "Pin": "560002",
+      "Quantity": 4
+    },
+    {
+      "ProductId": "pid1",
+      "Name": "Olay Anti-Ageing Day Cream Gentle SPF 15",
+      "Type": "Sun Protection",
+      "SPFValue": 25,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/TE/TE_11_CC_Cream_Daily_Moisturizer_Touch_of_Foundation/TE_11_Olay%20Total%20Effects%207%20in%20One%20Anti-Ageing%20Day%20Cream%20Gentle%20SPF%2015_50g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251817",
+      "URL": "https://www.olay.in/en-in/skin-care-products/facial-moisturisers/sun-protection-uv",
+      "Location": "Big Bazar",
+      "Pin": "560002",
+      "Quantity": 15
+    },
+    {
+      "ProductId": "pid2",
+      "Name": "Olay Total Effects 7 in One Anti-Ageing Day Cream Gentle SPF 15",
+      "Type": "Sun Protection",
+      "SPFValue": 24,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Callouts/Products/NW/NW_4/NW_4_Olay%20Natural%20White%207%20IN%20ONE%20Instant%20Glowing%20Fairness_40g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251811",
+      "URL": "https://www.olay.in/en-in/skin-care-products/facial-moisturisers/sun-protection-uv",
+      "Location": "Super Market",
+      "Pin": "560005",
+      "Quantity": 41     
+    },
+    {
+      "ProductId": "pid2",
+      "Name": "Olay Total Effects 7 in One Anti-Ageing Day Cream Gentle SPF 15",
+      "Type": "Sun Protection",
+      "SPFValue": 12,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/TE/TE_7_Fragrance_Free_Daily_Moisturizer/TE7Olay%20Total%20Effects%207%20in%20One%20Day%20Cream%20%20Serum%20Duo%20SPF%201540gFOP.jpg?h=224&la=en-IN&w=224&v=1-201511251818",
+      "URL": "https://www.olay.in/en-in/skin-care-products/facial-moisturisers/sun-protection-uv",
+      "Location": "Big Bazar",
+      "Pin": "560005",
+      "Quantity": 13
+    },
+    {
+      "ProductId": "pid2",
+      "Name": "Olay Total Effects 7 in One Anti-Ageing Day Cream Gentle SPF 15",
+      "Type": "Sun Protection",
+      "SPFValue": 15,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/TE/TE_13_Revitalizing_Foaming_Cleanser/TE_13_Olay%20Total%20Effects%207%20in%20One%20Anti-ageing%20Day%20Cream%20Normal%20SPF%2015_50g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251817",
+      "URL": "https://www.olay.in/en-in/skin-care-products/facial-moisturisers/sun-protection-uv",
+      "Location": "More Store",
+      "Pin": "560005",
+      "Quantity": 25
+    },
+    {
+      "ProductId": "pid3",
+      "Name": "Olay Natural White 7 IN ONE Instant Glowing Fairness with UV Protection",
+      "Type": "Sun Protection",
+      "SPFValue": 20,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/RG/RG_5_Micro_Scuplting_Cream_Fragrance_Free/SM_A_00075609190490_D1C0_US_updated.jpg?h=224&la=en-IN&w=224&v=1-201511251817",
+      "URL": "https://www.olay.in/en-in/skin-care-products/facial-moisturisers/sun-protection-uv",
+      "Location": "More Store",
+      "Pin": "560001",
+      "Quantity": 10
+    },
+    {
+      "ProductId": "pid4",
+      "Name": "Olay Natural White 7 IN ONE Glowing Fairness Cream SPF 24",
+      "Type": "Day Moisturiser",
+      "SPFValue": 20,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/NW/NW_2/NW_2_Olay%20Natural%20White%207%20IN%20ONE%20Glowing%20Fairness%20Cream%20SPF%2024_50g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251817",
+      "URL": "https://www.olay.in/en-in/skin-care-products/olay-natural-white-7-in-one-glowing-fairness-cream-spf-24",
+      "Location": "HyperCity",
+      "Pin": "560001",
+      "Quantity": 0
+    },
+    {
+      "ProductId": "pid5",
+      "Name": "Olay White Radiance Brightening Intensive Cream",
+      "Type": "Day Moisturiser",
+      "SPFValue": 22,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/wr/WR_2/WR_2_Olay%20White%20Radiance%20Brightening%20Intensive%20Cream_50g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251818",
+      "URL": "https://www.olay.in/en-in/skin-care-products/olay-white-radiance-brightening-intensive-cream",
+      "Location": "Big Bazar",
+      "Pin": "560004",
+      "Quantity": 23
+    },
+    {
+      "ProductId": "pid6",
+      "Name": "Olay Total Effects 7 in One Anti-ageing Night Cream",
+      "Type": "Night Moisturiser",
+      "SPFValue": 15,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/NW/NW_1/NW_1_Olay%20Natural%20White%207%20IN%20ONE%20Nourishing%20Repair%20Cream_50g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251817",
+      "URL": "https://www.olay.in/en-in/skin-care-products/facial-moisturisers/night-moisturiser",
+      "Location": "Value Store",
+      "Pin": "560001",
+      "Quantity": 3
+    },
+    {
+      "ProductId": "pid7",
+      "Name": "Olay White Radiance Brightening Night Essence",
+      "Type": "Night Moisturiser",
+      "SPFValue": 12,
+      "ImagePath": "http://cdn.discovery.pgsitecore.com/en-in/-/media/Olay_IN/Images/Product_Listing_Image/TE/TE_9_Mature_Skin_Therapy/TE_9_Olay%20Total%20Effects%207%20in%20One%20Anti-ageing%20Night%20Cream_50g_FOP.jpg?h=224&la=en-IN&w=224&v=1-201511251818",
+      "URL": "https://www.olay.in/en-in/skin-care-products/facial-moisturisers/night-moisturiser",
+      "Location": "Big Bazar",
+      "Pin": "560001",
+      "Quantity": 4
+    }
+  ]
+}

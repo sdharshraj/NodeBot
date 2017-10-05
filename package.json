@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "botbuilder": "^3.3.0",
+        "botmetrics": "0.0.8",
+        "botmetrics-botframework-middleware": "0.0.1",
+        "dotenv": "^2.0.0",
+        "request": "^2.79.0",
+        "restify": "^4.1.1",
+        "url": "^0.11.0",
+        "valid-url": "^1.0.9",
+        "cognitive-services": "^0.1.0",
+        "needle": "^1.3.0",
+        "node-oxford-emotion": "^1.0.4",
+        "project-oxford": "^1.5.0"
+    }
+}
